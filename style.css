@@ -4,13 +4,12 @@ body{
 }
 h1{
   font-family: "Brush Script MT", cursive;
-  font-size: 200px;
+  font-size: 800%;
   font-style: normal;
   font-variant: normal;
   font-weight: 700;
   line-height: 26.4px;
   text-align: center;
-  margin: 100px 30px 20px 0;
 
 }
 h2{
@@ -20,25 +19,28 @@ h2{
   font-variant: normal;
   font-weight: 700;
   line-height: 26.4px;
-  margin: 120px 0 10px 30px;
   text-align: center;
 }
 .god{
-  height: 300px;
-  width: 300px;
+  height: 20%;
+  width: 20%;
   margin-top: 0;
   display: inline-block;
   position: absolute;
-  top: 200px;
-  left: 100px;
+  top: 12%;
+  left: 10%;
 }
 .you{
-  width: 400px;
-  height: 500px;
+  width: 20%;
+  height: 25%;
   display: inline-block;
   position: absolute;
-  top: 200px;
-  left: 1100px;
+  top: 13%;
+  left: 70%;
+}
+p{
+  color: white;
+  font-family: cursive;
 }
 .rukh{
   text-align: center;
