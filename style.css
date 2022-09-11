@@ -1,0 +1,60 @@
+body{
+  background-color: #FF0000;
+  position: relative;
+}
+h1{
+  font-family: "Brush Script MT", cursive;
+  font-size: 200px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  text-align: center;
+  margin: 100px 30px 20px 0;
+
+}
+h2{
+  font-family: Papyrus, fantasy;
+  font-size: 100px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  margin: 120px 0 10px 30px;
+  text-align: center;
+}
+.god{
+  height: 300px;
+  width: 300px;
+  margin-top: 0;
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+.you{
+  width: 400px;
+  height: 500px;
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  left: 1100px;
+}
+.rukh{
+  text-align: center;
+  line-height: 2;
+}
+video{
+  width: 400px;
+  height: 700px;
+  text-align: center;
+}
+.toll{
+  background: #820000;
+  display: inline-block;
+  width: 300px;
+  height: 50px;
+}
+h4{
+  text-align: right;
+}
